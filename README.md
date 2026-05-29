@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 
-## Register Number: 212224230006
-## Name: ABISHEIK RAJ J
+## Register Number: 212224230103
+## Name: JANANI S
 
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
